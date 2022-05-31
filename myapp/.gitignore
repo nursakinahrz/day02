@@ -1,0 +1,6 @@
+classes
+classes/**
+.DS_store
+*.class
+*.log
+*.tmp
